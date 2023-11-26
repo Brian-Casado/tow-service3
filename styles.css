@@ -200,7 +200,7 @@ main button{
     width: 30%;
     height: 50%;
     background-color: rgb(185, 184, 184);
-    background: url(assets/tow-wallpapper-dark.jpg);
+    
     border-radius: 2em;
     box-shadow: 10px 20px 30px rgba(131, 131, 131, 0.619);
 
@@ -344,8 +344,7 @@ main button{
   .item-1{
     font-size: larger;
     flex: 75%;
-    background-color: #2e2e2e;
-    background: url(assets/tow-wallpapper-dark.jpg);
+    background: linear-gradient(to right,#595858,rgb(157, 119, 48));
     background: brightness(120%);
     background-size: cover;
     height: 300px;
