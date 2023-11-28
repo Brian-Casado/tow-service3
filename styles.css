@@ -36,7 +36,7 @@ img{
 
 .toggle-menu{
     position: fixed;
-    top: -1rem;
+    top: 1rem;
     left: -0.6rem;
     cursor: pointer;
     filter: invert(1);
